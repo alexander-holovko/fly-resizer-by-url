@@ -1,3 +1,5 @@
+use JB\FlyImages;
+
 class Helpers {
 
 //...
